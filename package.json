@@ -1,0 +1,23 @@
+{
+  "name": "image-rotate-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pirosikick/image-rotate-playground.git"
+  },
+  "keywords": [],
+  "author": "Hiroyuki ANAI <pirosikick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirosikick/image-rotate-playground/issues"
+  },
+  "homepage": "https://github.com/pirosikick/image-rotate-playground#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
